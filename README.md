@@ -1,6 +1,5 @@
-# DCCD
-Low latency high security/transparency network framework
+# Network Framework with Transparent Access Control
 
-Goal: Implementing a low latency network framework with a decentralized access control mechanism and a centralized broker for data channels
+Goal: Implementing a decentralized access control mechanism and a centralized broker for data/control channels
 
 This experimental project would be a part of the Corelink project development https://corelink-docs.hsrn.nyu.edu/
